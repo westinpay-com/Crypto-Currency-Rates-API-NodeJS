@@ -1,8 +1,6 @@
 # Crypto-Currency-Rates-API-NodeJS
 WestinPay's Free Crypto API provides real-time cryptocurrency exchange rates and conversions. It's perfect for financial apps, e-commerce platforms, and travel services that integrate cryptocurrency transactions.
-# Free Crypto Currency Conversion API
 
-WestinPay’s free API provides access to cryptocurrency exchange rates, ensuring your crypto conversions are quick, accurate, and backed by reliable, up-to-date data.
 
 
 ## WestinPay Crypto Currency NodeJS Code
